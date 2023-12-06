@@ -1,1 +1,1 @@
-# mq
+# @appstack-io/mq
